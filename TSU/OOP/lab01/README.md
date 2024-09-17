@@ -4,4 +4,5 @@
 
 Техническое задание:
 
-  ![photo_2023-10-01_14-58-12](https://github.com/ivanboitsov/CSI_OOP_lab1/assets/118753603/22cedb63-3fa5-47d1-bb91-b5c8db22ba37)
+ ![image](https://github.com/user-attachments/assets/9fbe2e78-167f-49ac-be36-234ffe4527d9)
+ 
