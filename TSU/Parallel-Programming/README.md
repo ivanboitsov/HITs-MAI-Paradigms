@@ -1,6 +1,6 @@
 <h1>Parallel programming Task:</h1>
 
-![image](https://github.com/ivanboitsov/Parallel-Programming-CPP/assets/118753603/8e80a533-069e-497a-8f82-628144e94c5a)
+![image](https://github.com/user-attachments/assets/de47d5c4-9cc1-47dc-8dcb-e54d85cb9c5b)
 
 Сделано:
   1. Последовательно;
